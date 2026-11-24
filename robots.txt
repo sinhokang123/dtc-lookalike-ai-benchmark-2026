@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sinhokang123.github.io/dtc-lookalike-ai-benchmark-2026/sitemap.xml
